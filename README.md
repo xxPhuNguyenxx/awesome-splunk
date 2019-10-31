@@ -46,9 +46,15 @@
   - [Integrating Splunk with Docker, CoreOS, and JournalD](http://blogs.splunk.com/2015/04/30/integrating-splunk-with-docker-coreos-and-journald/)
   - [Collecting docker logs and stats with Splunk](http://blogs.splunk.com/2015/08/24/collecting-docker-logs-and-stats-with-splunk/)
   - [Splunk Logging Driver for Docker](http://blogs.splunk.com/2015/12/16/splunk-logging-driver-for-docker/)
-- Splunk Dashboard Tips and Ideas
-  - [Using AngularJS in Splunk Dashboard](https://wiki.splunk.com/User_talk:Niketnilay#Topic_4:_Using_Angular_JS_in_Splunk_HTML_dashboard)
-  - [Splunkbase Developer Gadgets App for Splunk](https://splunkbase.splunk.com/app/3689/) - The Developer Gadgets App for Splunk is a set of libraries to extend Splunk dashboards with tools and features to help dashboard developers.
-  - [Developer Guidance - Setup View Example For Splunk](https://splunkbase.splunk.com/app/3728/) - This is an example Splunk App to demonstrate how to use setup views that adhere to Splunk Application Certification standards.
-  - [Dashboard Assistant](https://splunkbase.splunk.com/app/2947/)
+
+
+Splunk Dashboard Tips and Ideas
+
+| Sites | Description |
+| --- | --- |
+|[Using AngularJS in Splunk Dashboard](https://wiki.splunk.com/User_talk:Niketnilay#Topic_4:_Using_Angular_JS_in_Splunk_HTML_dashboard)|Wiki for using AngularJS in Splunk HTML Dashboard|
+|[Splunkbase Developer Gadgets App for Splunk](https://splunkbase.splunk.com/app/3689/)|The Developer Gadgets App for Splunk is a set of libraries to extend Splunk dashboards with tools and features to help dashboard developers.|
+|[Developer Guidance - Setup View Example For Splunk](https://splunkbase.splunk.com/app/3728/)|This is an example Splunk App to demonstrate how to use setup views that adhere to Splunk Application Certification standards.|
+|[Dashboard Assistant](https://splunkbase.splunk.com/app/2947/)||
+ 
   
