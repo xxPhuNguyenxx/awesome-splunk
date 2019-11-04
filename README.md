@@ -57,4 +57,15 @@ Splunk Dashboard Tips and Ideas
 |[Developer Guidance - Setup View Example For Splunk](https://splunkbase.splunk.com/app/3728/)|This is an example Splunk App to demonstrate how to use setup views that adhere to Splunk Application Certification standards.|
 |[Dashboard Assistant](https://splunkbase.splunk.com/app/2947/)||
  
-  
+
+Splunk Machine Learning Apps
+
+| Sites | Description |
+| --- | --- |
+|[Deep Learning Toolkit for Splunk](https://splunkbase.splunk.com/app/4607/) |The Deep Learning Toolkit for Splunk allows you to integrate advanced custom machine learning systems with the Splunk platform. It extends Splunk’s Machine Learning Toolkit with prebuilt Docker containers for TensorFlow 2.0, PyTorch and a collection of NLP libraries. |
+|[DGA App for Splunk](https://splunkbase.splunk.com/app/3559/) |This app shows how to Operationalize Machine Learning using MLTK to detect malicious domain names. Malware like Botnets use domain generation algorithms (DGAs) to create URLs that host malicious websites or command and control servers.  |
+|[NLP Text Analytics](https://splunkbase.splunk.com/app/4066/) | |
+|[NLP Natural Language Toolkit - NLTK wrapper](https://splunkbase.splunk.com/app/4057/) | |
+|[Splunk Essentials for Predictive Maintenance](https://splunkbase.splunk.com/app/4375/) | |
+
+
